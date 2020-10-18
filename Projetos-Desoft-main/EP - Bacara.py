@@ -1,7 +1,7 @@
 #EP - Design de Software
 #Equipe: Larissa Jordana de Paula Soares
 #Data: 18/10/2020
-
+# Sou foda
 # O jogo consiste em partidas onde pode apostar se o jogador ou o banco sonseguem um soma de cartas mais próxima do 9.
 # NÃO É UMA DISPUTA
 # A aposta é para o jogador ou banco ESSA É A ÚNICA INTERAÇÃO QUE O JOGADOR VAI TER, QUE É APOSTAR EM QUEM ERA VENCER A PARTIDA
